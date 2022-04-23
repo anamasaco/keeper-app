@@ -6,13 +6,6 @@
 <br/>
 <br/>
 
-<div align="center">
-    <img alt="kepper-app light mode" title="light_mode" src=".github/invoices_mobile.jpg"  />
-</div>
 
-<br/>
-<br/>
-
-<div align="center">
-    <img alt="kepper-app dark mode" title="dark_mode" src=".github/invoices_mobile.jpg"  />
-</div>
+![keeper-app-light-mode](https://user-images.githubusercontent.com/73525263/164942956-71377368-4bf0-41a8-a3fe-0a3121bd53b4.png)
+![keeper-app-dark-mode](https://user-images.githubusercontent.com/73525263/164942963-67a7397f-87cb-4a35-9c9a-a0e442e8bdd6.png)
